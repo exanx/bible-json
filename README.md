@@ -1,8 +1,3 @@
-Here is a comprehensive, beautifully formatted README.md file that you can copy
-and paste directly into your GitHub repository. It explains the "Bring Your Own
-Bible" (BYOB) concept, how to use your pre-hosted samples (NABRE, ESV), and how
-users can create and host their own translations.
-
 # 📖 Biblia Sacra - Custom Bibles Repository
 
 Welcome to the **Custom Bibles Repository** for the [Biblia Sacra](https://bibliasacra.web.app) app! 
