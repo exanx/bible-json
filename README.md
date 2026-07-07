@@ -18,9 +18,9 @@ If you just want to add a translation we already have in this repository (like t
 Copy one of the following URLs to your clipboard:
 
 *   **ESV (English Standard Version):**
-    `https://exanx.github.io/bible-json/ESV`
+    `https://exanx.github.io/bible-json/ESV-66-Books`
 *   **NABRE (New American Bible Revised Edition):**
-    `https://exanx.github.io/bible-json/NABRE`
+    `https://exanx.github.io/bible-json/NABRE-73-Books`
 
 ### Step 2: Add it to the App
 1. Open the **Biblia Sacra** app and open the menu/sidebar.
