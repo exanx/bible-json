@@ -17,8 +17,6 @@ If you just want to add a translation we already have in this repository (like t
 ### Step 1: Copy a Base URL
 Copy one of the following URLs to your clipboard:
 
-*   **ESV (English Standard Version):**
-    `https://exanx.github.io/bible-json/ESV-66-Books`
 *   **NABRE (New American Bible Revised Edition):**
     `https://exanx.github.io/bible-json/NABRE-73-Books`
 
